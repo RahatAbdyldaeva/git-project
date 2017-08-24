@@ -3,3 +3,8 @@ logs/
 
 # txt-files
 docs/*.txt
+
+# settings
+noPlugin
+noSession
+-
